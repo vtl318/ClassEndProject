@@ -2,7 +2,7 @@ pipeline {
 
   environment {
 
-    registry = "kiknaresh/practicedocker"
+    registry = "kiknaresh/shanmukhaproject"
 
     registryCredential = 'docker-creds'
 
