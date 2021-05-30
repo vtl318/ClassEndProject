@@ -18,7 +18,7 @@ pipeline {
 
       steps {
 
-        git branch: 'main','https://github.com/vtl318/ClassEndProject.git'
+        git branch: 'main', url:'https://github.com/vtl318/ClassEndProject.git'
 
       }
 
